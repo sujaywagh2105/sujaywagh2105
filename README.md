@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-gfhdjfxghjtrfgsehstrsadsgsdearDSGTRSGEDSFGT
+😄 My pronouns are: He/His/Him
+🔭 I’m currently working as a Data Engineer
+>> 🧑🏻‍🏫 I am currenly learning
+        }AWS
+        }Airflow (already worked on Azkaban)
